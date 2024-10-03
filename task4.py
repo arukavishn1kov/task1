@@ -1,0 +1,6 @@
+print('"4st program"')
+print("'123.456'")
+print(float('123.456'))
+print(123.456*10)
+print(int(1234.56))
+print(1234-1230), print(1234//308), print(1234*0+4)
