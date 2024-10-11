@@ -1,0 +1,7 @@
+my_string= input('Два любимых вида спорта, ')
+print('Ваш любимый спорт', my_string.upper())
+print('Ваш любимый спорт', my_string.lower())
+print('Ваш любимый спорт', my_string.replace(' ', ''))
+print('Ваш любимый спорт', my_string[0:1])
+l= len(my_string)
+print('Ваш любимый спорт', my_string[:int(l-2):-1])
